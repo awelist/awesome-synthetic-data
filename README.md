@@ -42,6 +42,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Mostly AI](https://mostly.ai/) – Commercial platform for privacy-preserving tabular synthetic data.
 - [Tonic.ai](https://www.tonic.ai/) – Developer-focused synthetic data tool with privacy constraints.
 - [Hazy](https://www.hazy.com/) – Enterprise-grade platform for secure synthetic data pipelines.
+- [synthetic cfo](https://syntheticcfo.com/) – Synthetic ERP data platform for SAP ECC, SAP S/4HANA and Oracle Cloud, with labelled fraud schemes, innocent look-alikes and a ground-truth answer key.
 
 ## Simulation Engines
 
